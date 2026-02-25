@@ -4,8 +4,8 @@ I enjoy exploring data, building machine learning models, and working on project
 
 I’m especially passionate about AI: how it works, how to build with it, and how to use it responsibly. I like creating models and systems that have real-world value.
 
-- 🔭 I’m currently working on LLM Reinforcement Learning for mental health at Lyslle AI
-- 🌱 I’m currently learning NLP, LLM, and Databases
+- 🔭 I’m currently working on LLM Reinforcement Learning for mental health at Lyslle, a mental health AI startup
+- 🌱 I’m currently learning Advanced Machine Learning, NLP, LLM, and Databases
 - 📫 How to reach me: Connect with me on <a href="www.linkedin.com/in/maisysong">Linkedin</a> or email me to mhs2229@columbia.edu
   
 Thanks for stopping by.
