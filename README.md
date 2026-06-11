@@ -6,7 +6,7 @@ I’m especially passionate about AI: how it works, how to build with it, and ho
 
 - 🔭 I’m currently working on LLM Reinforcement Learning for mental health at Lyslle, a mental health AI startup
 - 🌱 I’m currently learning Advanced Machine Learning, NLP, LLM, and Databases
-- 📫 How to reach me: Connect with me on <a href="www.linkedin.com/in/maisysong">Linkedin</a> or email me to mhs2229@columbia.edu
+- 📫 How to reach me: Connect with me on <a href="www.linkedin.com/in/maisysong">Linkedin</a> or email me to maisysong0915@gmail.com
   
 Thanks for stopping by.
 
